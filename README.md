@@ -7,7 +7,7 @@
     - Firebird;
     
 - Cursando Engenharia de Software na UTFPR;
-- Atulamente buscando aprofundar conhecimento em:
+- Atualmente buscando aprofundar conhecimento em:
     - Java;
     - JS 
     - HTML
