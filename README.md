@@ -3,11 +3,12 @@
   
 - Atualmente trabalhando na Precisa Fábrica de Software;
 - Tecnologias utilizadas profissionalmente: 
--   Delphi e Firebird;
-- Cursando Engenharia de Software na UTFPR
+    - Delphi e Firebird;
+    
+- Cursando Engenharia de Software na UTFPR;
 - Atulamente buscando aprofundar conhecimento em:
--    Java, JS, HTML, CSS;
--    
-- ⚡ Fun fact: heigth: 164cm;
+    - Java, JS, HTML, CSS;
+
+- ⚡ Fun fact - heigth: 164cm;
 
 ![Snake animation](https://github.com/littleMen21/littleMen21/blob/output/github-contribution-grid-snake.svg)
