@@ -1,5 +1,5 @@
   <h1 align="center">Ângelo Hank</h1>
-  <p align="center">Programador e estudante</p>
+  <p align="center">Programador Delphi</p>
   
 - Atualmente trabalhando na Precisa Fábrica de Software;
 - Tecnologias utilizadas profissionalmente: 
