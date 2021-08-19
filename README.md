@@ -4,7 +4,7 @@
 - Atualmente trabalhando na Precisa Fábrica de Software;
 - Tecnologias utilizadas profissionalmente: 
     - Delphi
-    <img src="http://firebirdsql.org/file/about/ds-firebird-logo-1000.png"> Firebird;
+    <img src="https://w7.pngwing.com/pngs/715/817/png-transparent-firebird-database-microsoft-sql-server-logo-logo-free-logo-area-sql-thumbnail.png"> Firebird;
     
 - Cursando Engenharia de Software na UTFPR;
 - Atulamente buscando aprofundar conhecimento em:
