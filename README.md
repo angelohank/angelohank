@@ -3,7 +3,8 @@
   
 - Atualmente trabalhando na Precisa Fábrica de Software;
 - Tecnologias utilizadas profissionalmente: 
-    - Delphi e Firebird;
+    - Delphi
+    <img src="http://firebirdsql.org/file/about/ds-firebird-logo-1000.png"> Firebird;
     
 - Cursando Engenharia de Software na UTFPR;
 - Atulamente buscando aprofundar conhecimento em:
