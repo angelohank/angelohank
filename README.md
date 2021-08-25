@@ -3,7 +3,7 @@
   
 - Atualmente trabalhando na Precisa Fábrica de Software;
 - Tecnologias utilizadas profissionalmente: 
-    <img src="https://www.embarcadero.com/images/logos/logo-page/Delphi_FINAL_ICONS_1024.png" width="25"> Delphi;
+    <p> <img src="https://www.embarcadero.com/images/logos/logo-page/Delphi_FINAL_ICONS_1024.png" width="25"> Delphi; </p>
     Firebird;
     
 - Cursando Engenharia de Software na UTFPR;
