@@ -1,4 +1,4 @@
-  ### Olá, eu sou o [Ângelo Hank](www.linkedin.com/in/angelohank)!
+  ### Olá, eu sou o [Ângelo Hank](https://www.linkedin.com/in/angelohank/)!
   
   <a href="https://intagram.com/angelohank">
     <img src="http://mairacuryteam.com.br/wp-content/uploads/2019/05/logo-instagram-png-fundo-transparente13-1.png" width="21px" align="left" alt="instagram | angelo hank">
@@ -10,7 +10,16 @@
   <br>
 
 <p>
-  Atualmente trabalho como programador de sistemas na <strong>Precisa Fábrica de Software</strong>.
+  Atualmente curso Engenharia de Software na UTFPR e trabalho como programador de sistemas na <a href="https://www.precisasoftware.com/"><strong>Precisa Fábrica de Software</strong></a>.
+  <br>
+  <br>
+  <a href="https://www.precisasoftware.com/">
+    <img src="https://www.precisasoftware.com/img/favicon.png" width="21" alt="logo | precisa" align="left">
+  </a>
+  
+  <a href="https://utfpr.edu.br/">
+    <img height="21" src="http://portal.utfpr.edu.br/icones/cabecalho/logo-utfpr/@@images/image.png" width="38" alt="logo | utfpr" align="left">
+  </a>
 </p>
 
 <br>
