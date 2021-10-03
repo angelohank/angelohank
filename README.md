@@ -28,10 +28,11 @@
   <code><img height="21" src="https://www.embarcadero.com/images/logos/logo-page/Delphi_FINAL_ICONS_1024.png"></code>
   <code><img height="21" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Firebird_logo.svg/2048px-Firebird_logo.svg.png"></code>
 
-**E buscando aprofundar conhecimento em:**
+**E buscando aprofundar ou adquirir conhecimento em:**
 
   <code><img height="21" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1024px-HTML5_Badge.svg.png"></code>
   <code><img height="21" src="https://cdn.iconscout.com/icon/free/png-256/css3-9-1175237.png"></code>
   <code><img height="21" src="https://iconape.com/wp-content/files/ez/353342/svg/javascript-seeklogo.com.svg"></code>
+  <code><img height="21" src="https://angular.io/assets/images/logos/angular/angular.svg"></code>
 
 ![Snake animation](https://github.com/littleMen21/littleMen21/blob/output/github-contribution-grid-snake.svg)
