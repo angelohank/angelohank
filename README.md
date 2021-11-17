@@ -19,16 +19,11 @@
   Bacharelando em Engenharia de Software pela UTFPR
 ```
 ```
-  Programador de sistemas na Precisa Fábrica de Software.
+  Desenvolvedor na CISS S.A Gestão para Varejo.
 ```
 <br>
 
-**Atualmente trabalhando com as seguintes tecnologias:**
-  
-  <code><img height="21" src="https://www.embarcadero.com/images/logos/logo-page/Delphi_FINAL_ICONS_1024.png"></code>
-  <code><img height="21" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Firebird_logo.svg/2048px-Firebird_logo.svg.png"></code>
-
-**E buscando aprofundar ou adquirir conhecimento em:**
+**Buscando aprofundar ou adquirir conhecimento em:**
 
   <code><img height="21" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1024px-HTML5_Badge.svg.png"></code>
   <code><img height="21" src="https://cdn.iconscout.com/icon/free/png-256/css3-9-1175237.png"></code>
