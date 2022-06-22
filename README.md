@@ -29,5 +29,3 @@
   <code><img height="21" src="https://cdn.iconscout.com/icon/free/png-256/css3-9-1175237.png"></code>
   <code><img height="21" src="https://iconape.com/wp-content/files/ez/353342/svg/javascript-seeklogo.com.svg"></code>
   <code><img height="21" src="https://angular.io/assets/images/logos/angular/angular.svg"></code>
-
-![Snake animation](https://github.com/littleMen21/littleMen21/blob/output/github-contribution-grid-snake.svg)
