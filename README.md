@@ -19,12 +19,19 @@
 ```
   Bacharelando em Engenharia de Software pela UTFPR
 ```
+```
+  Participante do Santander Coders 2023
+```
 <br>
 
 **Trabalho**
 ```
   Desenvolvedor C++ na CISS S.A Gestão para Varejo.
 ```
+<br>
+
+**Além disso**
+  Contribuinte do blog <a href="medium.com/devniverse">DevNiverse</a>
 <br>
 
 **Buscando aprofundar ou adquirir conhecimento em:**
