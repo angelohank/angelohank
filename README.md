@@ -19,14 +19,11 @@
 ```
   Bacharelando em Engenharia de Software pela UTFPR
 ```
-```
-  Participante do Santander Coders 2023
-```
 <br>
 
 **Trabalho**
 ```
-  Desenvolvedor C++ na CISS S.A Gestão para Varejo.
+  Desenvolvedor C++ Júnior na CISS S.A Gestão para Varejo.
 ```
 <br>
 
@@ -38,5 +35,3 @@
 
   <code><img height="21" src="https://brandslogos.com/wp-content/uploads/images/c-logo.png"></code>
   <code><img height="21" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Qt_logo_2016.svg/1280px-Qt_logo_2016.svg.png"></code>
-  <!--<code><img height="21" src="https://cdn.iconscout.com/icon/free/png-256/css3-9-1175237.png"></code>
-  <code><img height="21" src="https://angular.io/assets/images/logos/angular/angular.svg"></code> -->
