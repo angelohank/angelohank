@@ -31,7 +31,7 @@
   Contribuinte do blog <a href="medium.com/devniverse">DevNiverse</a>
 <br>
 
-**Buscando aprofundar ou adquirir conhecimento em:**
+**Buscando aprofundar meu conhecimento em:**
 
   <code><img height="21" src="https://brandslogos.com/wp-content/uploads/images/c-logo.png"></code>
   <code><img height="21" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Qt_logo_2016.svg/1280px-Qt_logo_2016.svg.png"></code>
