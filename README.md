@@ -1,37 +1,79 @@
-  ### Olá, eu sou o [Ângelo Hank](https://www.linkedin.com/in/angelohank/)!
+
+### Olá, eu sou o [Ângelo Hank](https://www.linkedin.com/in/angelohank/)!
   
-  <a href="https://intagram.com/angelohank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="20px" align="left" alt="instagram | angelo hank">
-  </a>
-  <a href="https://twitter.com/angeloohank">
-    <img src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" width="20px" align="left" alt="twitter | angelo hank">
-  </a>
-  <a href="https://www.linkedin.com/in/angelohank/">
-    <img src="https://raw.githubusercontent.com/brunobertolini/brunobertolini/master/assets/linkedin.svg" align="left" width="20px" alt="linkedin | angelo hank">
-  </a>
-  <a href="https://t.me/angelohank">
-    <img src="https://raw.githubusercontent.com/brunobertolini/brunobertolini/master/assets/telegram.svg" align="left" width="20px" alt="telegram | angelo hank">
-  </a>
-  <br>
-  <br>
+
+-  Atualmente trabalho na CISS S.A como Desenvolvedor C++ Júnior  
   
-  **Formação**
-```
-  Bacharelando em Engenharia de Software pela UTFPR
-```
-<br>
 
-**Trabalho**
-```
-  Desenvolvedor C++ Júnior na CISS S.A Gestão para Varejo.
-```
-<br>
+- Estudante de Engenharia de Software na Universidade Tecnologica Federal do Paraná  
+  
 
-**Além disso**
-  Contribuinte do blog <a href="medium.com/devniverse">DevNiverse</a>
-<br>
+- Contribuo com posts sobre tecnologia do blog <a href="medium.com/devniverse">DevNiverse</a>   
+  
 
-**Buscando aprofundar meu conhecimento em:**
+<br/>  
 
-  <code><img height="21" src="https://brandslogos.com/wp-content/uploads/images/c-logo.png"></code>
-  <code><img height="21" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Qt_logo_2016.svg/1280px-Qt_logo_2016.svg.png"></code>
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+
+
+### Frontend  
+<div align="center">  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://miro.medium.com/v2/resize:fit:480/0*xLMZH2ZBDINn-bRT.jpeg" target="_blank"><img style="margin: 10px" src="https://miro.medium.com/v2/resize:fit:480/0*xLMZH2ZBDINn-bRT.jpeg" alt="QML" height="50" /></a>  
+
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Backend  
+<div align="center">  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>
+<a href="https://www.qt.io/hubfs/qt_logo_black_rgb.png#keepProtocol" target="_blank"><img style="margin: 10px" src="https://www.qt.io/hubfs/qt_logo_black_rgb.png#keepProtocol" alt="Qt Framework" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### DevOps  
+<div align="center">  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/github.com/angelohank" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/angelohank/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=angelohank&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
