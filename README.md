@@ -2,8 +2,13 @@
 ### Olá, eu sou o [Ângelo Hank](https://www.linkedin.com/in/angelohank/)!
   
 
--  Atualmente trabalho na CISS S.A como Desenvolvedor C++ Júnior  
-  
+-  Atualmente trabalho na CISS S.A como Desenvolvedor FullStack Júnior
+-  Minha stack principal de trabalho gira em torno de:
+    * C++
+    * Qt Framework
+    * QML
+    * Linux
+    * Node  
 
 - Estudante de Engenharia de Software na Universidade Tecnologica Federal do Paraná  
   
