@@ -7,6 +7,7 @@
     * C++
     * Qt Framework
     * QML
+    * Python
     * Linux
     * Node  
 
