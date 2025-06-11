@@ -3,6 +3,7 @@
   
 
 -  Atualmente trabalho na CISS S.A como Desenvolvedor FullStack Júnior
+-  Atuo como desenvolvedor FullStack também na Archan Labs
 -  Minha stack principal de trabalho gira em torno de:
     * C++
     * Qt Framework
