@@ -1,21 +1,29 @@
 
 ### Olá, eu sou o [Ângelo Hank](https://www.linkedin.com/in/angelohank/)!
   
+**Atuações**
+- Desenvolvedor FullStack na CISS S.A (C++ com Qt)
+- Desenvolvedor FullStack na Archan Labs (NestJs + React Native)
+- Professor de Infraestrutura e Backend no SUDOTEC
 
--  Atualmente trabalho na CISS S.A como Desenvolvedor FullStack Júnior
--  Atuo como desenvolvedor FullStack também na Archan Labs
--  Minha stack principal de trabalho gira em torno de:
-    * C++
-    * Qt Framework
-    * QML
-    * Python
-    * Linux
-    * Node  
+<br>
 
-- Estudante de Engenharia de Software na Universidade Tecnologica Federal do Paraná  
-  
+**Stack principal de trabalho** <br>
+    * C++ <br>
+    * Qt Framework <br>
+    * QML <br>
+    * Python <br>
+    * Linux <br>
+    * Node  <br>
 
-- Contribuo com posts sobre tecnologia do blog <a href="medium.com/devniverse">DevNiverse</a>   
+<br>
+
+**Formação** <br>
+
+Bacharel em Engenharia de Software pela Universidade Tecnologica Federal do Paraná  
+
+<br>
+Contribuo com posts sobre tecnologia do blog <a href="medium.com/devniverse">DevNiverse</a>   
   
 
 <br/>  
