@@ -3,7 +3,7 @@
   
 **Atuações**
 - Desenvolvedor FullStack na CISS S.A (C++ com Qt)
-- Desenvolvedor FullStack na Archan Labs (NestJs + React Native)
+- Desenvolvedor Backend na Archan Labs (NestJs)
 - Professor de Infraestrutura e Backend no SUDOTEC
 
 <br>
