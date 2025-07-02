@@ -23,7 +23,7 @@
 Bacharel em Engenharia de Software pela Universidade Tecnologica Federal do Paraná  
 
 <br>
-Contribuo com posts sobre tecnologia do blog <a href="medium.com/devniverse">DevNiverse</a>   
+Contribuo com posts sobre tecnologia para o blog <a href="medium.com/devniverse">DevNiverse</a>   
   
 
 <br/>  
