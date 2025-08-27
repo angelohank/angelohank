@@ -7,7 +7,7 @@
 
 - Também atuo como desenvolvedor na [Archan Labs](https://archanlabs.com/)
 
-- Ministro aulas sobre infraestrutura e beckend no **SUDOTEC - Aprende e Crescer**
+- Ministro aulas sobre infraestrutura e backend no **SUDOTEC - Aprende e Crescer**
 
 - 📝 Escrevo artigos sobre tecnologia para o [https://medium.com/devniverse](https://medium.com/devniverse)
 
