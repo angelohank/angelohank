@@ -5,9 +5,9 @@
 
 - Atuo como desenvolvedor na [CISS S.A - CISSBox](https://ciss.com.br/cissbox?gad_source=1&gad_campaignid=21019757493&gbraid=0AAAAABv8F3uuqI5_HW11QbxfGeUj3Vjz7&gclid=Cj0KCQjwkILEBhDeARIsAL--pjyRMZoh9LHGNpW-uViBlf87RYWtTbITkRCgMBxBe-2o7QThbIVpyVcaAnaqEALw_wcB)
 
-- Também atuo como desenvolvedor na [Archan Labs](https://archanlabs.com/)
+- Também atuo como desenvolvedor na [Archan Labs](https://archanlabs.com/) e 2KZH
 
-- Ministro aulas sobre infraestrutura e backend no **SUDOTEC - Aprende e Crescer**
+- Ministro aulas sobre Orientação a Objetos, infraestrutura e backend no **SUDOTEC - Aprender e Crescer**
 
 - 📝 Escrevo artigos sobre tecnologia para o [https://medium.com/devniverse](https://medium.com/devniverse)
 
