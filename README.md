@@ -17,3 +17,10 @@
 <p align="left">
 <a href="https://linkedin.com/in/angelohank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angelohank" height="30" width="40" />  <br> <a href="https://medium.com/@angelohank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@angelohank" height="30" width="40" /></a>
 </p>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/angelohank/angelohank/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/angelohank/angelohank/output/github-contribution-grid-snake.svg">
+  <img alt="cobrinha comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/angelohank/angelohank/output/github-contribution-grid-snake.svg">
+</picture>
